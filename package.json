@@ -1,0 +1,22 @@
+{
+  "name": "diction",
+  "version": "0.1.1",
+  "description": "Modal logic engine for emergent storytelling and narrative generation",
+  "main": "logic.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fictive-io/diction.git"
+  },
+  "keywords": [
+    "logic"
+  ],
+  "author": "Mark Rickerby <me@maetl.net> (https://maetl.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fictive-io/diction/issues"
+  },
+  "homepage": "https://github.com/fictive-io/diction#readme"
+}
